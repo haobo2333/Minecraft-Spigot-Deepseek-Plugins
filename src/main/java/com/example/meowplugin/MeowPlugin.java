@@ -157,7 +157,7 @@ public class MeowPlugin extends JavaPlugin {
 
     private void sendAbout(CommandSender sender) {
         sender.sendMessage(ChatColor.YELLOW + "[Meow] " +
-                ChatColor.AQUA + "Meow" + ChatColor.LIGHT_PURPLE + " v1.3");
+                ChatColor.AQUA + "Meow" + ChatColor.LIGHT_PURPLE + " v1.0");
     }
 
     private void sendHelp(CommandSender sender) {

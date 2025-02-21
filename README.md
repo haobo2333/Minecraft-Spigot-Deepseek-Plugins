@@ -29,6 +29,13 @@ restrict-to-op: true                                        # 是否仅限OP使�
 broadcast-reply: true                                       # 是否广播回复
 ```
 
+## 命令
+
+`/meow ask <question>` - 提问
+`/meow reload` - 重载配置文件
+`/meow help` - 查看帮助
+`/meow about` - 关于 
+
 ## 演示
 
 ![ 2025-02-21 200325.png](https://s2.loli.net/2025/02/21/FhrGTDa7xyjVbIg.png)
