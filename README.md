@@ -32,8 +32,11 @@ broadcast-reply: true                                       # 是否广播回复
 ## 命令
 
 `/meow ask <question>` - 提问
+
 `/meow reload` - 重载配置文件
+
 `/meow help` - 查看帮助
+
 `/meow about` - 关于 
 
 ## 演示
